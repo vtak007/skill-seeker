@@ -1,0 +1,9 @@
+# Skill-seeker staging output (used when no session scratchpad is available)
+skill-seeker-work/
+
+# Python cache (skill-seekers CLI helpers)
+__pycache__/
+
+# Editor settings
+.vscode/
+.idea/
