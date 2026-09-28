@@ -16,4 +16,4 @@ Source for the `skill-seeker` Claude skill: builds new skills from docs sites, G
 - Generated skills install globally to `~/.claude/skills/<name>/`.
 - The CLI is always run with `--enhance-level 0` — its LOCAL enhancement mode spawns a nested AI agent; Claude does synthesis itself.
 - `skill-seekers create` needs the source as a positional arg; type flags like `--video-url` don't replace it.
-- No git remote yet — commits are local only.
+- Remote: public repo https://github.com/vtak007/skill-seeker (`origin/main`).
